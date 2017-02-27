@@ -1,0 +1,1 @@
+console.log('Webworker in package');
